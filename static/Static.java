@@ -21,9 +21,9 @@ class A{
     static int a = 10;
 }
 
-class Static extends A{
+public class Static{
     static int a = 5;
-    // static String s = "From static class";
+    static String s = "From static class";
     public static void main(String[] args) {
         System.out.println("Inside main() : ");
         System.out.println(a);
