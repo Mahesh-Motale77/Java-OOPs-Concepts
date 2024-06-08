@@ -9,10 +9,16 @@
 
 NOTE:
 - Static members are considered as a class members.
-- Static members wil be given a memory inside a class static area.
+- Static members will be given a memory inside a class static area.
 - Static members of the class can be used directly in any members of the same class.
 - Also can be used in any other members which belong to different class with the help of class name as a reference.
 - We can use static members without creating object of a class.
+
+
+Types:
+- 1) Static Methods
+- 2) Static Variables
+- 3) Static Initializers
 
 */
 
