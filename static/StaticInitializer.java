@@ -42,10 +42,17 @@ Types of Static Initializers:
  - In a clas  we can have any number of static block.
  - The static initializer (block) execute from top to bottom order.
 
-
 */
 
-
 public class StaticInitializer {
-    
+    static String s = "Mahesh" ;            // Static declare initialization statement
+
+    static{                                  // Static Block
+      System.out.println(s);
+      System.out.println("Welcome to Static Intializers");
+    }
+     
+    public static void main(String[] args) {
+      System.out.println(s);
+    }
 }
