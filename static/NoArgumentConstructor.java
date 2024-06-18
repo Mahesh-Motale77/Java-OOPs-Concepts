@@ -1,4 +1,12 @@
 
+/* 
+                        *** No Argument Constructor ***
+
+- The constructor which not accept any formal argument is called as No Argument constructor.
+- We can load all non static members of class into object but cannot initialize them using
+  no-argument constructor.
+
+ */
  
  class Test{
     String brand = "Mobile";
