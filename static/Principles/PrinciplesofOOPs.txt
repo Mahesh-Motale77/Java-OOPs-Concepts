@@ -1,0 +1,13 @@
+
+- Principles of OOPs helps the programmer to design softrware easily and efficiently.
+
+- There are 4 Principles in Object Oriented Programming
+      -
+      -
+      ----> 1) Encapsulation
+      -
+      ----> 2) Inheritance
+      -
+      ----> 3) Polymorphism
+      -
+      ----> 4) Abstraction
