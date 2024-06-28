@@ -1,0 +1,33 @@
+
+                            *** Encapsulation ***
+
+- It is a process of wrapping (binding and connecting) the attributes and behaviors of an 
+  object together is known as Encapsulation.
+
+Notes:
+- We should not give direct access to the attributes of the class (object) to the user.
+- But the user should be able to read or modify the attributes of a class (object) through
+  behaviors.
+- Therefore, it is good practice of a programmer to design a class such that, we have methods to 
+  read the attributes as well as update the attributes.
+
+Advantages:
+Since we provide indirect access to the attributes it is secure and we have validation steps
+before reading or updating the attributes.
+
+
+*** Data Hiding ***   Encapsulation process is used to achieve data hiding.
+
+Data Hiding is the process of restricting direct access to the attributes of a class (object) and
+Providing secured and indirect acccess to the properties of a class (object) is known as Data Hiding.
+
+
+*** How do achieve Data Hiding ***
+We can achieve data hiding by following the following steps:
+1. Make attributes private.
+2. Design getter() and setter() methods for reading and updating the attributes respectively.
+3. This helps the programmer to get flexibility to design the following:
+    -- We can make an attributes only readable but not modifiable.
+    -- We can make an attribute only modifiable but not readable.
+    -- We can make an attribute both readable and modifiable.
+    -- We can make an attribute neither readable nor modifiable.
