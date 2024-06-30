@@ -1,4 +1,4 @@
-
+ 
                             *** Encapsulation ***
 
 - It is a process of wrapping (binding and connecting) the attributes and behaviors of an 
