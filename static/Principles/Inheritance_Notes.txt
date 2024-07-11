@@ -1,0 +1,40 @@
+
+
+***********************  IS-A Relationship  ***************************
+
+- The Relationship between two or more object which is similar to parent and child Relation
+  is known as IS-A Relationship.
+- The IS-A Relationship the child object aquires all the properties and behavior of parent 
+  object along with it's own attributes and behavior.
+
+- With the help of IS-A Relationship we can achieve Generalization and Specialization.
+
+- Here the parent class is known as generalize and child class is known as Specialized..
+- With the help of child class object reference we can use all the members of parent class
+  as well as child class.
+- With the help of parent class object reference, we can use only the members of parent class,
+  but not child class members.
+
+  *** Terminology: 
+  Parent class == Super Class == base class
+  Child class == Subclass == derived class
+
+
+--------- We can achieve IS-A Relationship with the help of Inheritance.
+
+
+************************* Inheritance *****************************************
+
+-- It is a process of one class acquiring all the properties and behavior from another class, is known as Inheritance.
+
+In java we can achieve Inheritance using--
+    1) extends keyword
+    2) implements keyword
+
+
+**** Levels of Inheritance :
+    1) Single level Inheritance
+    2) Multi level Inheritance
+    3) Hierarchical Inheritance
+    4) Multiple Inheritance
+    5) Hybrid Inheritance
